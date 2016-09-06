@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="la-clms.com.training.mylearnerportal" version="0.9" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>CLMS LA</name>
-  <description>Official CLMS Learning Academy Project</description>
+  <description>Official CLMS Learning Academy</description>
   <author href="http://toifee.com" email="tamas.kery@gmail.com">Juan Leyva</author>
   <content src="index.html"/>
   <access origin="*"/>
