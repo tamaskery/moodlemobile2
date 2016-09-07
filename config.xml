@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="training.mylearnerportal.com.clms-classroom" version="3.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Test Mobile</name>
-  <description>Official Moodle Mobile app</description>
+  <name>CLMS LA Mobile</name>
+  <description>Official Learning Academy Mobile app</description>
   <author href="http://toifee.com" email="tamas.kery@gmail.com">Tamas Kery</author>
   <content src="index.html"/>
   <access origin="*"/>
