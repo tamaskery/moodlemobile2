@@ -11,8 +11,8 @@
         CLMS Learning Academy Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="tamas.kery@gmail.com">
-        Smartedu
+    <author href="http://w3.ibm.com" email="tkery@hu.ibm.com">
+        cLMS Mobile App
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
